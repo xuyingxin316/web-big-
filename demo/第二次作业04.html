@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+     <head>
+      <meta charset="UTF-8"/>
+      <title>demo</title>
+     </head>
+     <body>
+     <table border="1" cellspacing="0">
+     	<form>
+     	<tr>
+     	  <td>用户名:</td>
+     	  <td><input type="text" name="用户名" value="请输入你的名字"/></td>
+     	</tr>
+     	<tr>
+     	  <td>密码:</td>
+     	  <td><input type="password" name="密码"/></td>
+     	</tr>
+     	<tr>
+     	  <td>确认密码:</td>
+     	  <td><input type="password" name="确认密码"/></td>
+     	</tr>
+     	<tr>
+     	  <td>性别:</td>
+     	  <td><input type="radio" value="Male" name = "sex" checked />男
+     		<input type="radio" value="feMale" name="sex" checked/>女</td><br/>
+     	</tr>
+     	<tr>
+     	  <td>生日:</td>
+     	  <td>
+     	  	<select name="年历">
+     	    	<option value="one" selected>公历</option>
+     	    	<option value="two" >农历</option>
+     	    </select>
+     	    <select name="年份">
+     	    	<option value="one" selected>2018</option>
+     	    	<option value="two" >2017</option>
+     	    	<option value="three" >2016</option>
+     	    	<option value="four" >2015</option>
+     	    </select>
+     	    <select name="月份">
+     	    	<option value="one" >1</option>
+     	    	<option value="two" >2</option>
+     	    	<option value="three" >3</option>
+     	    	<option value="four" selected>4</option>
+     	    </select>
+     	    <select name="日期">
+     	    	<option value="one" selected>1</option>
+     	    	<option value="two" >2</option>
+     	    	<option value="three" >3</option>
+     	    	<option value="four" >4</option>
+     	    </select>
+     	  </td>
+     	</tr>
+     	<tr>
+     	  <td>所在地:</td>
+     	  <td>
+     	  	<select name="国家">
+     	    	<option value="one" selected>中国</option>
+     	    	<option value="two" >美国</option>
+     	    	<option value="three" >英国</option>
+     	    	<option value="four" >俄罗斯</option>
+     	    </select>
+     	    <select name="省">
+     	    	<option value="one" selected>河北</option>
+     	    	<option value="two" >北京</option>
+     	    	<option value="three" >黑龙江</option>
+     	    	<option value="four" >辽宁</option>
+     	    </select>
+     	    <select name="市">
+     	    	<option value="one" >海淀区</option>
+     	    	<option value="two" >哈尔滨</option>
+     	    	<option value="three" >沈阳</option>
+     	    	<option value="four" selected>石家庄</option>
+     	    </select>
+     	  </td>
+     	</tr>
+     	<tr>
+     	  <td>验证码:</td>
+     	  <td><input type="text" name="验证码"><img src="image./验证码.jpg"></td>
+     	</tr>
+     	<tr>
+     	  <td>证件类型:</td>
+     	  <td>
+     	  	<select name="证件类型">
+     	    	<option value="one" selected>身份证</option>
+     	    	<option value="two" >港澳台通行证</option>
+     	    	<option value="three" >其他</option>
+     	    </select></td>
+     	</tr>
+     	<tr>
+     	  <td>爱好:</td>
+     	  <td>
+     	  	
+     		<input type="checkbox" name="choose" value="音乐" />音乐
+     		<input type="checkbox" name="choose" value="读书" checked/>读书
+     		<input type="checkbox" name="choose" value="跳舞" checked/>跳舞
+     		<input type="checkbox" name="choose" value="下棋"/>下棋
+     		<input type="checkbox" name="choose" value="其他"/>其他
+     	  </td>
+     	</tr>
+     	<tr>
+     	  <td>说明:</td>
+     	  <td>
+     	  	<textarea  name = "说明 " rows = "5" cols = "30"> 
+            </textarea></td>
+        </tr>
+        <tr>
+          <td>上传头像:</td>
+          <td><input type = "file" name = "files" /></td>
+        </tr>
+        <tr>
+          <td colspan = "2" align ="center"><input type="submit" value="提交" name="sub" />
+          <input type="reset"    value="重置"  name="res" />
+          <input type="button" value="按钮"  name="but" /></td>
+
+        </tr></form>
+
+
+
+
+
+
+
+     </table>
+     </body>
