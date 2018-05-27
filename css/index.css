@@ -1,0 +1,452 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration:none; 
+}
+.header{
+	height: 173px;
+	background-color: #eeeeef;
+}
+.logo{
+	text-align: center;
+	height: 125px;
+}
+.logo img{
+	margin-top: 30px;
+	margin-bottom: 27px;
+}
+.daohang{
+	width: 720px;
+	height: 45px;
+	background-color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 23px;
+	list-style: none;
+}
+.l{
+	font-family: "Microsoft YaHei"；
+	margin-left:30px;
+	font-size: 14px;
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(image/shu.png) no-repeat right center;
+}
+.last{
+	font-family: "Microsoft YaHei"；
+	font-size: 14px;
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+}
+.bbb{
+	border-bottom: 3px solid #1e50ae;
+}
+.banner{
+	height: 405px;
+}
+.fuwu{
+	font-family:"Microsoft YaHei";
+	font-size: 34px;
+	text-align: center;
+	margin-top:60px; 
+}
+.fuwuyingwen{
+	font-family: "Aparajita";
+	font-size: 25px;
+	text-align: center;
+	margin-top:20px;
+}
+.big1{
+	height: 670px;
+}
+.big2{
+	height: 420px;
+}
+.big3{
+    float: left;
+    margin-left: 180px;
+    width: 260px;
+    height: 420px;
+}
+.t{
+    float: left;
+    width: 332px;
+    height: 420px;
+}
+.xuyi{
+    float: left;
+    width: 260px;
+    height: 420px;
+}
+.ying1{
+	height: 250px;
+}
+.tu{
+	float: left;
+    margin-left: 180px;
+    width: 260px;
+    height: 250px;
+}
+.uu{
+    float: left;
+    width: 332px;
+    height: 250px;
+}
+.xxy{
+    float: left;
+    width: 260px;
+    height: 250px;
+}
+.xxa{
+	margin-left: 70px;
+	margin-top: 55px;
+}
+.xxb{
+	margin-left: 110px;
+	margin-top: 55px;
+}
+.xxc{
+	margin-left: 50px;
+	margin-top: 55px;
+}
+.tua{
+	margin-left: 70px;
+}
+.tub{
+	margin-left: 110px;
+}
+.tuc{
+	margin-left: 50px;
+}
+.xiaoa{
+	margin-left: 110px;
+	margin-top: 20px;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+}
+.xiaob{
+	margin-left: 150px;
+	margin-top: 20px;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+}
+.xiaoc{
+	margin-left: 90px;
+	margin-top: 20px;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+}
+.xa{
+	margin-left: 90px;
+	margin-top: 20px;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+}
+.xb{
+	margin-left: 150px;
+	margin-top: 20px;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+}
+.xc{
+	margin-left: 90px;
+	margin-top: 20px;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+}
+.list1{
+    font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color: #919191;
+    line-height: 22px;
+    margin-left: 110px;
+}
+.list2{
+    font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color: #919191;
+    line-height: 22px;
+    margin-left: 150px;
+}
+.list3{
+    font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color:#919191;
+    line-height: 22px;
+    margin-left: 90px;
+}
+.shu{
+	height: 712px;
+	width: 1560px;
+	background: url(../image/haoduo.png) no-repeat center center;
+}
+.xx{
+	float: left;
+	width: 225px;
+	height: 300px;
+	margin-left: 240px;
+	padding-top: 215px;
+}
+.sz{
+	float: left;
+	width: 225px;
+	height: 300px;
+	margin-left: 50px;
+	padding-top: 215px;
+}
+.hz{
+	float: left;
+	width: 225px;
+	height: 300px;
+	margin-left: 50px;
+	padding-top: 215px;
+}
+.sh{
+	float: left;
+	width: 225px;
+	height: 300px;
+	margin-left: 50px;
+	padding-top: 215px;
+}
+.xyxzuimei{
+	height: 1010px;
+	width: 1560px;
+}
+.zuimei{
+    height: 133px;
+    margin: 0 auto;
+}
+.zuixinzixun{
+    padding-top: 43px;
+    font-size: 34px;
+    text-align: center;
+    color: #333;
+    font-family:"Microsoft YaHei";
+    display: block;
+}
+.lastst{
+    padding-top: 23px;
+    font-size: 28px;
+    text-align: center;
+    font-family: "Aparajita";
+    color: #333;
+}
+.mei{
+	width: 1200px;
+    height: 431px;
+    margin: 0 auto;
+    display: block;
+}
+.xiannv{
+    width: 620px;
+    height: 431px;
+    background: url(../image/cunqian.png) 50px no-repeat;
+    float: left;
+    display: block;
+}
+.pang{
+    width: 580px;
+    height: 431px;
+    float: left;
+}
+.shou{
+	margin-top: 84px;
+    font-size: 22px;
+    color: #333;
+    font-family:"Microsoft YaHei";
+    display: block;
+}
+.chifan{ 
+	font-family: "MicrosoftYaHeiLight";
+    font-size: 18px;
+    margin-top: 20px;
+    color: #969696;
+}
+.fan{
+    width: 507px;
+    font-size: 14px;
+    color: #969696;
+    margin-top: 36px;
+    font-family:"Microsoft YaHei";
+}
+.fanfanfan{
+	margin-right: 610px;
+	padding-top: 30px;
+}
+.yaoshi{
+    width: 1088px;
+    height: 330px;
+    float: left;
+}
+.gaotie{
+	margin: 0 20px;
+	float: left;  
+    text-align: center;
+}
+.buwandian{
+	margin: 0 20px;
+	float: left;
+    text-align: center;
+}
+.y{
+    font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color: #797979;
+}
+.zuihou{
+	height: 110px;
+    background-color: #f5f5f5;
+}
+.xuxinxin{
+	float: left;
+	width: 50px;
+	height: 102px;
+}
+.aaa{
+	margin-left: 180px;
+	float: left;
+	width: 50px;
+	height: 102px;
+}
+.web{
+	margin-left: 45px;
+	padding-top: 26px;
+}
+.haonan{
+	margin-left: 20px;
+	width: 250px;
+	height: 102px;
+	float: left;
+}
+.xinxin{
+	float: left;
+    font-size: 19px;
+    font-family: "Microsoft YaHei";
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.buxiang{
+	float: left;
+    font-size: 13px;
+    font-family: "Microsoft YaHei";
+    margin-left: 40px;
+    padding-top: 10px;
+}
+.wa{
+	float: left;
+	padding-top: 25px;
+}
+.wo{
+	width: 1560px;
+	height: 387px;
+	background-color: #323232;
+}
+.dachang{
+	width: 1560px;
+	height: 1px;
+}
+.www{
+	margin-left: 250px;
+	height: 250px;
+	width: 180px;
+	float: left;
+	list-style: none;
+}
+.qqq{
+	height: 250px;
+	width: 180px;
+	float: left;
+	list-style: none;
+}
+.qa{
+	padding-top: 70px;
+    font-size: 18px;
+    font-family: "Microsoft YaHei";
+    color: #fff;
+}
+.qw{
+    font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color: #fff;
+    padding-top: 30px;
+}
+.qs{
+    font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color: #fff;
+    padding-top: 20px;
+}
+.erweima{
+	margin-top: 70px;
+	margin-left: 0px;
+	float: left;
+}
+}
+.zuo{
+    width: 700px;
+    height: 261px;
+    float: left;
+}
+.ca0{
+	margin-top: 70px;
+	margin-left: 30px;
+	float: left;
+}
+.kkk{
+	margin-top: 74px;
+    width: 260px;
+    height: 148px;
+    float: left;
+}
+.nb{
+	font-family: "Microsoft YaHei";
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 40px;
+    font-size: 18px;
+}
+.woc{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 16px;
+    height: 28px;
+    line-height: 28px;
+}
+.QQ{
+    width: 28px;
+    height: 24px;
+    margin-right: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -5px;
+}
+.lll{
+	font-family: "Microsoft YaHei";
+    color: #fff;
+	margin-top: 20px;
+    margin-left: 40px;
+    font-size: 16px;
+    height: 28px;
+    line-height: 28px;
+}
+.d{
+	width: 770px;
+	height: 20px;
+	text-align: center;
+	margin-top: 45px;
+	margin-left: 415px;
+	list-style: none;
+}
+.wc{
+	font-family: "Microsoft YaHei";
+    color: #fff;
+	margin-right:13px;
+	font-size: 14px;
+	float: left;
+}
